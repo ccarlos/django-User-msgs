@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+settings_local.py
+*.swp
+*-min.css
+*-all.css
+*-min.js
+*-all.js
